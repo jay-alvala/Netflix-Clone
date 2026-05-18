@@ -34,9 +34,6 @@ Netflix-Clone/
 
 Netflix-inspired homepage with responsive sections and media sections.
 
-##  Live Demo
-
-Add your deployed website link here later.
 
 ##  Author
 
