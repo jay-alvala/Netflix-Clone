@@ -18,6 +18,7 @@ A responsive Netflix landing page clone built using HTML and CSS.
 
 ##  Project Structure
 
+```bash
 Netflix-Clone/
 │
 ├── index.html
@@ -27,6 +28,7 @@ Netflix-Clone/
 └── assets/
     ├── images/
     └── videos/
+```
 
 ##  Preview
 
