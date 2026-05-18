@@ -33,7 +33,7 @@ Netflix-Clone/
 ##  Preview
 
 Netflix-inspired homepage with responsive sections and media sections.
-![Netflix Clone Preview](assets/images/preview.png)
+![Netflix Clone Preview](assets/images/Preview.png)
 
 ##  Author
 
